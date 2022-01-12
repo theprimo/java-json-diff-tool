@@ -1,0 +1,20 @@
+{
+  "additions": {
+    "foo.bar.1": "liz",
+    "test.b": 5,
+    "test3": 3,
+    "arr1.1": "30"
+  },
+  "modifications": {
+    "test.a": 2
+  },
+  "deletions": [
+    "foo.bar.0",
+    "test.c",
+    "test2",
+    "arr1.1",
+    "test11",
+    "test22.test13.bar.0",
+    "test22.hello"
+  ]
+}
